@@ -7,7 +7,9 @@ Este repositório estará em constante evolução. Atualmente, estou organizando
 
 ## Próximos Passos 🚀
 **Adicionar projetos existentes:** Estou reunindo e documentando projetos que demonstram minha experiência e criatividade.
+
 **Incluir novos protótipos:** Estou trabalhando em novas ideias e mecânicas para expandir meu portfólio.
+
 **Manter a comunidade informada:** Sempre que um novo projeto for adicionado, você verá atualizações detalhadas aqui.
 
 😄 Fique à vontade para voltar e conferir as atualizações!
