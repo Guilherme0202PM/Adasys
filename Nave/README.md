@@ -7,6 +7,9 @@
 
 ## 🚀 Como Jogar:
 
+![Captura de Tela](Foto/Capturar.PNG)
+
+
 - **Posições de navegação:** A nave pode ser movida para uma das três posições possíveis pressionando as teclas:
   - **Tecla 1** para a primeira posição.
   - **Tecla 2** para a segunda posição.
@@ -15,6 +18,9 @@
   A cada rodada, novos asteroides surgem, e você precisa desviar deles para continuar sua jornada no espaço.
   
 - **Objetivo:** Sobreviva o maior tempo possível desviando dos asteroides que vêm em sua direção. A cada rodada, a dificuldade aumenta com a maior quantidade e velocidade dos asteroides.
+
+![Captura de Tela](Foto/Capturar3.PNG)
+
 
 ## 🛠️ Funcionalidades:
 - **Movimentação da Nave:** O jogador controla a nave pressionando as teclas 1, 2 ou 3, que mudam a posição da nave no espaço para evitar os asteroides.
