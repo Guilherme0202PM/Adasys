@@ -1,13 +1,13 @@
 # 🚀 JogoNave - Jogo de Sobrevivência com Asteroides
 
-![Demonstração do Jogo](Gif/Nave.gif)
+![Demonstração do Jogo](FotoNave/Nave.gif)
 
 
 **JogoNave** é um emocionante jogo de sobrevivência onde o jogador controla uma nave espacial e deve desviar de asteroides que aparecem a cada rodada. O objetivo é sobreviver o maior tempo possível enquanto os asteroides aumentam em número e velocidade, desafiando cada vez mais a habilidade do jogador.
 
 ## 🚀 Como Jogar:
 
-![Captura de Tela](Foto/Capturar.PNG)
+![Captura de Tela](FotoNave/Capturar.PNG)
 
 
 - **Posições de navegação:** A nave pode ser movida para uma das três posições possíveis pressionando as teclas:
@@ -19,7 +19,7 @@
   
 - **Objetivo:** Sobreviva o maior tempo possível desviando dos asteroides que vêm em sua direção. A cada rodada, a dificuldade aumenta com a maior quantidade e velocidade dos asteroides.
 
-![Captura de Tela](Foto/Capturar3.PNG)
+![Captura de Tela](FotoNave/Capturar3.PNG)
 
 
 ## 🛠️ Funcionalidades:
